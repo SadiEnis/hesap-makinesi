@@ -1,0 +1,10 @@
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\bin\Debug\hafta4_odev1_hesapMakinesi.exe.config
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\bin\Debug\hafta4_odev1_hesapMakinesi.exe
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\bin\Debug\hafta4_odev1_hesapMakinesi.pdb
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\obj\Debug\hafta4_odev1_hesapMakinesi.csproj.AssemblyReference.cache
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\obj\Debug\hafta4_odev1_hesapMakinesi.Form1.resources
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\obj\Debug\hafta4_odev1_hesapMakinesi.Properties.Resources.resources
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\obj\Debug\hafta4_odev1_hesapMakinesi.csproj.GenerateResource.cache
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\obj\Debug\hafta4_odev1_hesapMakinesi.csproj.CoreCompileInputs.cache
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\obj\Debug\hafta4_odev1_hesapMakinesi.exe
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta5_odev1_hesapMakinesi - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_hesapMakinesi\obj\Debug\hafta4_odev1_hesapMakinesi.pdb
